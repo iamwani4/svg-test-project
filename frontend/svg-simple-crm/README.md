@@ -7,8 +7,8 @@ Email: contact@wani4.com
 This frontend was developed under a strict time constraint as part of a technical assessment.  
 Some features are intentionally simplified or incomplete, including:
 
-- **Stripe payment integration is not implemented** (only UI + backend logic for split payments)
-- **Permission management UI is missing** (backend supports fine-grained permissions, but no admin panel to assign them)
+- **Stripe payment integration is not implemented**
+- **Permission management UI is missing**
 
 This project is **for evaluation only** and should **not** be considered production-ready or used in any real environment.
 
